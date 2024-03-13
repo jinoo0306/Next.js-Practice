@@ -17,6 +17,30 @@ function page() {
           background: black;
         }
       `}</style>
+
+      <style jsx>{`
+        p {
+          color: green;
+        }
+      `}</style>
+
+      <style jsx>{`
+        h1 {
+          color: blue;
+        }
+      `}</style>
+
+      <style jsx>{`
+        h1 {
+          color: yellow;
+        }
+      `}</style>
+
+      <style jsx>{`
+        p {
+          color: orange;
+        }
+      `}</style>
     </div>
   );
 }
