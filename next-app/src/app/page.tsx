@@ -30,11 +30,7 @@ function page() {
         }
       `}</style>
 
-      <style jsx>{`
-        h1 {
-          color: yellow;
-        }
-      `}</style>
+
 
       <style jsx>{`
         p {
